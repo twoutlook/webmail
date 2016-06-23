@@ -1,0 +1,2 @@
+[23-Jun-2016 02:31:08 +0200]: <qi82i4q8> DB Error: SQLSTATE[HY000] [1045] Access denied for user 'roundcube'@'localhost' (using password: NO) in D:\xampp\htdocs\webmail\rc120\program\lib\Roundcube\rcube_db.php on line 173 (GET /webmail/rc120/)
+[23-Jun-2016 02:31:08 +0200]: <qi82i4q8> PHP Error: config.inc.php was not found. (GET /webmail/rc120/)
